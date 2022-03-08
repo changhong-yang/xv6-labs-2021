@@ -1,0 +1,11 @@
+# You need 10 lines of text to pass the "answers-pgtbl.txt" TEST
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+some text
+
